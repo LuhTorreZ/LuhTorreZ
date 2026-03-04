@@ -2,8 +2,10 @@
 
 Backend Developer focused on Java.
 
-🎓 Java Tecnology Postgraduate 
-🎓 Software Engineering Postgraduate  
+Postgraduate in Software Engineering
+
+Postgraduate in Java Technology
+
 💻 Analysis and Systems Development Graduate  
 
 ## Technologies
