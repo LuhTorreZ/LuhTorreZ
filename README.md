@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Luhan Torres 👋
 
-<!--
-**LuhTorreZ/LuhTorreZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on Java.
 
-Here are some ideas to get you started:
+🎓 Java Tecnology Postgraduate 
+🎓 Software Engineering Postgraduate  
+💻 Analysis and Systems Development Graduate  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+Java  
+Spring Boot  
+PostgreSQL  
+Docker  
+REST APIs  
